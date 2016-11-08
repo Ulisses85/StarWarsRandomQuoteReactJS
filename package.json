@@ -1,0 +1,14 @@
+{
+  "name": "react-starter-browser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/northcoders/wk01sprint02_react_random_quote_generator.git",
+    "type": "git"
+  },
+  "author": "maurogestoso <maurogestoso@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "python -m SimpleHTTPServer 4000"
+  }
+}
