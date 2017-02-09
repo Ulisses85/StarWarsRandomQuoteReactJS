@@ -5,3 +5,19 @@ body {
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3.7em;
+  color: #FFFF00;
+  font-family: 'Bangers';
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.7em;
+  color: #FFFF00;
+  font-family: 'Bangers';
+}
