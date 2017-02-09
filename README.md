@@ -20,19 +20,6 @@ the press of a button.
 4. Once your app is displaying one random quote, allow the user to randomize the quote on the click of a button.
 5. Finally, style your app nicely so someone would really want to use it.
 
-##### Bonus
-
-6. Allow the user to select between a random quote from different topics.
-7. Allow the user to view all the quotes if they wish.
-8. Allow the user to add new quotes to the list(s).
-9. Add a button to allow someone to tweet a quote (figure how that works on your own).
-
-## Resources
-
-1. [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
-2. [CSS Tricks](https://css-tricks.com/)
-3. [HTML5 CheatSheet](http://makeawebsitehub.com/the-html-5-mega-cheat-sheet/)
-4. [Handling events in React](https://facebook.github.io/react/docs/handling-events.html)
 
 ## Running the project
 
