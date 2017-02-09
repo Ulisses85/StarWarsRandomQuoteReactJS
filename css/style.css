@@ -1,0 +1,7 @@
+body {
+  background: url("../img/Vader.jpg") no-repeat center 20% fixed;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
